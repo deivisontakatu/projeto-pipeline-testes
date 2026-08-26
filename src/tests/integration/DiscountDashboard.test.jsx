@@ -35,7 +35,6 @@ test(
       }
 
     );
-
     fireEvent.click(
 
       screen.getByText(
